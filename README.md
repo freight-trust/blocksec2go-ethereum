@@ -80,3 +80,4 @@ print(f'Sent transaction with hash: {tx_hash.hex()}')
 
 ## License
 ISC © 2020 rexs.io
+ISC - FreightTrust and Clearing Corp for additional modifications
