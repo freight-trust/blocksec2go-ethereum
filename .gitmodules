@@ -1,0 +1,3 @@
+[submodule "Blockchain"]
+	path = Blockchain
+	url = https://github.com/Infineon/Blockchain
