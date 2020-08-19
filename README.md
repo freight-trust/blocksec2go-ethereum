@@ -6,6 +6,11 @@ __Read more about rationale behind this package [on our blog post](https://link.
 
 If you're unsure what Blockchain Security 2 Go is, [you can find more info here](https://github.com/Infineon/Blockchain).
 
+## Additional Scripts
+
+[pcsc.sh](pcsc.sh)
+CentOS/RHEL setup for CCID script
+
 ## Installation
 
 ```bash
@@ -80,3 +85,4 @@ print(f'Sent transaction with hash: {tx_hash.hex()}')
 
 ## License
 ISC © 2020 rexs.io
+ISC - FreightTrust and Clearing Corp for additional modifications
